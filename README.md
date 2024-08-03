@@ -6,9 +6,9 @@ This project provides a web application to detect and count sheets in an image u
 
 ## Project Status
 
-**Integration Completed:** The web application is fully integrated and functional. Users can upload images, and the system will process and display results.
+- **Integration Completed:** The web application is fully integrated and functional. Users can upload images, and the system will process and display results.
 
-**Detection Status:** While the integration is complete, the detection functionality is not fully optimized. The current model may not accurately detect all sheets as expected. Efforts have been made to refine the detection, but further improvements are needed to achieve optimal performance. 
+- **Detection Status:** While the integration is complete, the detection functionality is not fully optimized. The current model may not accurately detect all sheets as expected. Efforts have been made to refine the detection, but further improvements are needed to achieve optimal performance. 
 
 We are actively working on enhancing the detection accuracy, and contributions or suggestions are welcome to help resolve these issues.
 
